@@ -58,14 +58,6 @@ A comprehensive, modern fintech digital wallet application designed for seamless
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajeh-mdalall&show_icons=true&theme=tokyonight" alt="Wajeh's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeh-mdalall&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 📬 Connect with Me
 I am always open to discussing enterprise projects, remote full-time opportunities, or innovative development challenges.
 
